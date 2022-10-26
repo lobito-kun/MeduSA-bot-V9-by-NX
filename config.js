@@ -1,7 +1,7 @@
-global.owner = ['5493704583368'] // Put your number here
+global.owner = ['5493704583368', '14703984393'] // Put your number here
 global.smod = [''] // Want some help?
 global.mods = [''] // Want some help?
-global.prems = ['5493704583368'] // Premium user has unlimited limit
+global.prems = ['5493704583368', '14703984393'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
    xteam: 'https://api.xteam.xyz',
